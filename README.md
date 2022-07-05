@@ -54,3 +54,12 @@ _Main application is a parent mfe that impport child1 and child2 ._
    ```js
    http://localhost:4700
    ```
+
+
+### Demo
+Main
+![Alt text](ui_main.png?raw=true "Main Page")
+Child1
+![Alt text](ui_child1.png?raw=true "Child1 Page")
+Child2
+![Alt text](ui_child2.png?raw=true "Child2 Page")
